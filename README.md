@@ -1,1 +1,1 @@
-# Persona-Finance-Tracker
+# Personal-Finance-Tracker
